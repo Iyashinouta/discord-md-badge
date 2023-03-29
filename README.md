@@ -19,7 +19,7 @@ The set up process will vary depending on the use:
 
    replacing `USERID` with [your Discord user ID](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-) (e.g. `![](https://dcbadge.vercel.app/api/shield/406125028065804289)`)
 
-![](https://dcbadge.vercel.app/api/shield/406125028065804289)
+![](https://dcbadge.vercel.app/api/shield/614811143780696077)
 
 Done! (Make sure not to leave the server, or this will break)
 
