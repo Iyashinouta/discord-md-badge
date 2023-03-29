@@ -2,7 +2,7 @@
 
 Add to your GitHub readme a badge that shows your Discord username and presence, or a server invite!
 
-![](https://dcbadge.vercel.app/api/shield/852977967776399400?bot=true)
+![](https://dcbadge.vercel.app/api/shield/614811143780696077?bot=true)
 
 [![](https://dcbadge.vercel.app/api/server/zkspfFwqDg)](https://discord.gg/zkspfFwqDg)
 
